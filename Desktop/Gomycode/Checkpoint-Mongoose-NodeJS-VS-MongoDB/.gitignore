@@ -1,0 +1,28 @@
+# Node.js dependencies
+/node_modules
+
+# MongoDB related files
+/.mongodb
+/mongodb_data
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE or editor specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (if you don't want to track it, optional)
+/package-lock.json
+
